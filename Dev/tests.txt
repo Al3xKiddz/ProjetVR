@@ -1,0 +1,30 @@
+1- Test de connection du oculus avec mon portable - Echec parce que portable pas assez bon
+2- Test de connection du oculus avec ma tour(Air Link) - marche
+3- Test de connection du oculus avec ma tour(USB) - marche (on est parti)
+4- Test pour l'export avec unity sur le casque
+5- Test pour voir si je suis capable de regarder autour de l'envirronement avec XR
+6- Test avec les manettes pour XR
+7- Test avec les mains XR - marche pas donc change de rig
+8- Test pour comparer XR et OVR
+9- Test pour voir si je suis capable de regarder autour de l'envirronement avec OVR
+10- Test avec les mains mais sans les doigts pour le hand-tracking
+11- Test pour voir si les doigts bougent
+12- Test pour voir si les doigts suivent correctement les miens(assignation des "os" du squelette)
+13- Test pour l'interaction des petits cubes entre eux
+14- Test pour l'interaction des gros avec les petits cubes
+15- Test pour s'assurer que les balles volent et garde leur momentum
+16- Test pour les collissions entre les balles
+17- Test pour les collisions avec la main des balles
+18- Test des collisions de la main avec les cubes
+19- Test desactivation des collision du gros cube pour que le ramassage de cube sois plus facile
+20- Test pour voir si les cubes reste dessus le gros mais la main passe au travers
+21- Test des collisions de la capsule avec le cylindre (pour l'arreter)
+22- Test de collision de capsule avec les mains
+23- Test pour savoir comment ca certains cubes traverse le plancher - pas trouver pourquoi - encore un probleme
+24- Test pour la skybox en mode de jeu (elle n'est pas la et c'est bizarre)
+25- Test pour voir si le pathfinding marche avec une seule cible
+26- Test pour le pathfinding de faire le tour une fois de toute les destinations
+27- Test pour le pathfinding de cycle a l'infini
+28- Test pour que le patrouilleur du path regarde ou qu'il va
+29- Test pour voir si la masse des choses a un impact sur la physique (pas vraiment en general)
+30- Test qui encapsule tout ce qui a ete fait pour verifier que tout marche avant la remise
